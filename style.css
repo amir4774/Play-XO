@@ -7,7 +7,6 @@
 .container {
     width: 100vw;
     height: 100vh;
-    /* background: #d3d4d8; */
     background: #a0c9dd;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
@@ -22,7 +21,7 @@
     position: absolute;
     top: 38%;
     left: 50%;
-    transform: translate(-62%, -50%);
+    transform: translate(-50%, -50%);
 }
 
 .cell {
@@ -37,7 +36,7 @@
 .status {
     position: absolute;
     top: 75%;
-    left: 49%;
+    left: 51%;
     transform: translate(-62%, -50%);
     text-align: center;
 }
